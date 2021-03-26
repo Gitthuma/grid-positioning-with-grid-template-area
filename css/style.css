@@ -44,3 +44,7 @@ article {
 aside {
   grid-area: sidebar;
 }
+
+footer {
+  grid-area: footer;
+}
