@@ -40,3 +40,7 @@ header {
 article {
   grid-area: content;
 }
+
+aside {
+  grid-area: sidebar;
+}
